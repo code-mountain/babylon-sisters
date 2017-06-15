@@ -1,0 +1,22 @@
+{
+  "name": "babylon-sisters",
+  "version": "1.0.0",
+  "description": "Expiriments with Babylon.js in TypeScript",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-mountain/babylon-sisters.git"
+  },
+  "keywords": [
+    "3D"
+  ],
+  "author": "Freja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-mountain/babylon-sisters/issues"
+  },
+  "homepage": "https://github.com/code-mountain/babylon-sisters#readme"
+}
